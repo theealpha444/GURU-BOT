@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/theealpha444/GURU-BOT",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -13,7 +13,7 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "GuruBot~WmccqE3G",
       "required": true,
       "value": ""
     },
@@ -28,14 +28,14 @@
       "value": ""
     },
      "HKEY": {
-      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
+      "description": "2f1c7d1d-97e9-433b-8c40-e9bd5250339a",
       "required": true,
       "value": ""
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "theealpha444"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
